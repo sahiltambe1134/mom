@@ -1,2 +1,4 @@
 # mom
-this is my first project
+this is my first git repository
+<br>
+Author-Sahil Tambe
